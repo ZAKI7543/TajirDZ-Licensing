@@ -1,0 +1,19 @@
+{
+  "type": "tajirdz-licensing-trust-metadata",
+  "version": 1,
+  "repository": {
+    "owner": "ZAKI7543",
+    "repo": "TajirDZ-Licensing",
+    "branch": "main",
+    "registryFormat": 1
+  },
+  "trustRoot": {
+    "algorithm": "Ed25519",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEA1MC/xyPjwJUsHXed1XOaEPobq6/RVNi9QRu656zYRlI=\n-----END PUBLIC KEY-----\n",
+    "keyId": "0ef127edb50af40e"
+  },
+  "securityVersion": 1,
+  "licenseSchemaVersion": 1,
+  "createdAt": "2026-09-25T23:59:40.927Z",
+  "signature": "9nOwKp4zAzdZTEh7TGJMsVZPCZZoJCyGJvxlnQMIfvZ10713jbOtpWeNRiErlANBqc8rpWs04ic42Rf7tQXdDA=="
+}
