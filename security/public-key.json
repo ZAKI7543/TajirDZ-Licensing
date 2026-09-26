@@ -1,0 +1,6 @@
+{
+  "algorithm": "Ed25519",
+  "keyId": "0ef127edb50af40e",
+  "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEA1MC/xyPjwJUsHXed1XOaEPobq6/RVNi9QRu656zYRlI=\n-----END PUBLIC KEY-----\n",
+  "note": "للمعلومة فقط — العميل لا يوثق به من هنا (Trust Anchor مثبت في التطبيق، §98)"
+}
