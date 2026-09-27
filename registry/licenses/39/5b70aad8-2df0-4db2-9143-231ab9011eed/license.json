@@ -1,0 +1,31 @@
+{
+  "licenseId": "5b70aad8-2df0-4db2-9143-231ab9011eed",
+  "keyId": "393f5adf51cc00b2",
+  "keyLookupDigest": "393f5adf51cc00b2ae4874e11e16057e2379b75e1c3bec688598b37efc7129f8",
+  "licenseType": "WORKER",
+  "status": "ACTIVE",
+  "storeIdentity": "store-1043ef5d",
+  "parentHostLicenseId": "9b95ad52-c1a1-49ba-9913-27a1a179cdaf",
+  "businessActivity": "general",
+  "edition": "standard",
+  "entitlements": {
+    "features": [],
+    "limits": {}
+  },
+  "devicePolicy": {
+    "maxDevices": 1,
+    "bindingRequired": true,
+    "resetPolicy": "owner-controlled",
+    "platformPolicy": {
+      "windows": true,
+      "android": false
+    }
+  },
+  "licenseVersion": 1,
+  "securityVersion": 1,
+  "stateVersion": 1,
+  "previousStateHash": "",
+  "createdAt": "2026-09-27T09:47:58.442Z",
+  "updatedAt": "2026-09-27T09:47:58.442Z",
+  "signature": "p8BVl53wFCXXYKZx0yeBfbBEbIx7J6Q/lr5Cz4WXzi3jGnWFs4fCvREBdSgmaqbIjhjnpHqdhue3bqdWcXTWBQ=="
+}
