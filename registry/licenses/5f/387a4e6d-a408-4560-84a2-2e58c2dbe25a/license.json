@@ -3,7 +3,7 @@
   "keyId": "5fd318ed52ffd2eb",
   "keyLookupDigest": "5fd318ed52ffd2ebe09c24dfc3df70a8f6a5db4a7722fc178ae49cb702374c32",
   "licenseType": "WORKER",
-  "status": "REVOKED",
+  "status": "ACTIVE",
   "storeIdentity": "store-10028dbb",
   "parentHostLicenseId": "f587bce5-15f7-4532-8d7f-177e75acf9f3",
   "businessActivity": "general",
@@ -18,13 +18,13 @@
   },
   "licenseVersion": 1,
   "securityVersion": 1,
-  "stateVersion": 2,
-  "previousStateHash": "63c0185786c75c0abb5be53d7e9d8b4c59984008c68eb9ed7e814d4214efbc88",
+  "stateVersion": 3,
+  "previousStateHash": "039da7d0761900aee3cbb8803a8c679a52011586ee2ec4d424616a0371d90c00",
   "createdAt": "2026-09-27T22:27:36.239Z",
-  "updatedAt": "2026-09-27T22:30:34.127Z",
+  "updatedAt": "2026-09-27T22:35:07.539Z",
   "revocation": {
     "reason": "ADMINISTRATIVE",
     "revokedAt": "2026-09-27T22:30:34.126Z"
   },
-  "signature": "i3087ue9/iLDTulh9dp2Ch3gEqAirNSuh8fp+MY9F3L8LxCZdz7mYaiDeuU3TWGTgqP7CNKEdqIuNrvGJGjtDw=="
+  "signature": "wwMosXCeC4wc+sNvQRLWgxqFRdjTREfx9JW7lFJ2xXUaoJQphUIImJS5pBi9U39ROhbZgBWc7N5FOBBral+FDA=="
 }
