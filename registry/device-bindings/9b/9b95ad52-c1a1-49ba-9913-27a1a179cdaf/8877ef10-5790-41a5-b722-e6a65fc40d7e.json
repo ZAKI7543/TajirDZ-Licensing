@@ -1,0 +1,14 @@
+{
+  "bindingId": "8877ef10-5790-41a5-b722-e6a65fc40d7e",
+  "licenseId": "9b95ad52-c1a1-49ba-9913-27a1a179cdaf",
+  "licenseType": "HOST",
+  "storeIdentity": "store-1043ef5d",
+  "devicePublicKey": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEA6PEaRzPQxFDJR5YR0zE0uZdMf1MivS9JK2Ey8X+ZMsI=\n-----END PUBLIC KEY-----\n",
+  "deviceIdentityHash": "893f9efeb4c0f569fb58c4c1661d486882cadbb179ae6801cb44df38e158cb96",
+  "status": "ACTIVE",
+  "stateVersion": 1,
+  "previousStateHash": "",
+  "createdAt": "2026-09-27T01:22:05.799Z",
+  "updatedAt": "2026-09-27T01:22:05.801Z",
+  "signature": "FxSd3QOb3E5CmyhUKzMsv8lvVSvLpeHoafZ0aa9ln7ia36VDrqh7VBCFRKMD2rSeQ/63WyS+u9UNLzKqpka9Bw=="
+}
