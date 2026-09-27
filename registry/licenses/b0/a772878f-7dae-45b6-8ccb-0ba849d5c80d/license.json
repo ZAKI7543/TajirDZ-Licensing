@@ -3,7 +3,7 @@
   "keyId": "b0a69d1b0c79fb6a",
   "keyLookupDigest": "b0a69d1b0c79fb6aa1e9c2848f8ff85685e5779021171891a937b0a2e4768289",
   "licenseType": "HOST",
-  "status": "REVOKED",
+  "status": "ACTIVE",
   "storeIdentity": "store-f7b2bca7",
   "workerCapacity": 1,
   "businessActivity": "general",
@@ -57,13 +57,13 @@
   },
   "licenseVersion": 1,
   "securityVersion": 1,
-  "stateVersion": 2,
-  "previousStateHash": "d12ff06f70eda26f5c9d737fc4c83d7b4ecccc5331266db4676f12c756516805",
+  "stateVersion": 3,
+  "previousStateHash": "31d67d01a3b6f3bd07905c9fccbb125d8b443ea395c95bb03ed15d47f058d894",
   "createdAt": "2026-09-27T00:07:33.239Z",
-  "updatedAt": "2026-09-27T00:18:57.000Z",
+  "updatedAt": "2026-09-27T00:20:43.858Z",
   "revocation": {
     "reason": "NON_PAYMENT",
     "revokedAt": "2026-09-27T00:18:56.999Z"
   },
-  "signature": "tMYAlVx64qncRO68D6siOP7BqWe/DTaEkVVkE27P+j7xMb1jSJ01NRw9pB0o+jtu7ugNXOsbLgG+/8Xg6l7jBg=="
+  "signature": "RBOut8NqY7aCiYvtFiVwIhCLFVYOG0K5GcDFAmC/XRJ8UCm9bmwcM9quPVT2ynQr9z4dZJ/qEPHb4W4TLQqCAQ=="
 }
