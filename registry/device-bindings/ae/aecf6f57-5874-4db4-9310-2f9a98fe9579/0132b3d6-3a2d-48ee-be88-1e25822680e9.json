@@ -6,10 +6,11 @@
   "parentHostLicenseId": "6c222bdb-af6e-4d24-8140-287b045b369a",
   "devicePublicKey": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAuMc96/aSgNhaz1G2wai4kdgEeUAhTkS65g7ObKnzAC8=\n-----END PUBLIC KEY-----",
   "deviceIdentityHash": "8c367391a91b7d60911293d3578b3d6c1e5a559fa528258d58f6d403e81241a9",
-  "status": "ACTIVE",
-  "stateVersion": 1,
-  "previousStateHash": "",
+  "status": "REVOKED",
+  "stateVersion": 2,
+  "previousStateHash": "9a0ee71baa3857a753706296266f81dcad4645dbb3a398b1a498e3c60c913219",
   "createdAt": "2026-09-28T18:23:38.756Z",
-  "updatedAt": "2026-09-28T18:23:38.756Z",
-  "signature": "Z1/M1ObVnIaNqNQnuNul0Ycq2oI8gXCG4T0514oRKMmkChQ95M9fHonPo2poOWvCsF+8U+45X1rWV6u40d90Cw=="
+  "updatedAt": "2026-09-28T20:40:28.893Z",
+  "resetByOwner": true,
+  "signature": "pzkGcceMAeSN3o2yKoWqFy4WCFYIXeEdT6WC60JauudG264N3U5rYipmAsxhrAM9t11NPotL13faXB503NsFDQ=="
 }
