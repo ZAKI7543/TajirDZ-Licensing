@@ -5,7 +5,7 @@
   "licenseType": "HOST",
   "status": "ACTIVE",
   "storeIdentity": "store-b39a57e4",
-  "workerCapacity": 2,
+  "workerCapacity": 1,
   "businessActivity": "general",
   "devicePolicy": {
     "maxDevices": 1,
@@ -18,13 +18,13 @@
   },
   "licenseVersion": 1,
   "securityVersion": 1,
-  "stateVersion": 10,
-  "previousStateHash": "a41a382035b232657173e3e352f36da37440a5d3090dfc911a9031557ae3b1c8",
+  "stateVersion": 11,
+  "previousStateHash": "dacc53173af226a184bf1144373f3e6d63abefc7823cc1ad69bfa6aee5ea4497",
   "createdAt": "2026-09-28T10:22:29.522Z",
-  "updatedAt": "2026-09-29T09:13:50.996Z",
+  "updatedAt": "2026-09-29T09:18:50.995Z",
   "revocation": {
     "reason": "ADMINISTRATIVE",
     "revokedAt": "2026-09-28T18:00:49.956Z"
   },
-  "signature": "sNBOs9c1XoFZZGMTyzvf/i1hKDQ0EoE5fhI78vLBVwytqGrNFJc1yZ4qJ9swvWexaKHtE+FCxfEHxQHGpEHYDA=="
+  "signature": "iBez8uuNhcznyHMVWQ8golrRLtJYN0hJAi2nHl94Doi2JIGBWs6awlFT3zF+XLszc7cMnJuRnCZGx7qJVyixAw=="
 }
