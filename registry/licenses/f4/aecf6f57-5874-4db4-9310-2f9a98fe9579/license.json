@@ -3,7 +3,7 @@
   "keyId": "f47df4c288090414",
   "keyLookupDigest": "f47df4c288090414a2dfea701b3648aba9a4964d5eca7bf89cf2f7949e6f3de0",
   "licenseType": "WORKER",
-  "status": "ACTIVE",
+  "status": "REVOKED",
   "storeIdentity": "store-b39a57e4",
   "parentHostLicenseId": "6c222bdb-af6e-4d24-8140-287b045b369a",
   "businessActivity": "general",
@@ -18,13 +18,13 @@
   },
   "licenseVersion": 1,
   "securityVersion": 1,
-  "stateVersion": 3,
-  "previousStateHash": "eb2e0aea2f20458aeed365eab84f7b9341c06326e117a0420b48fa86fe1b33ea",
+  "stateVersion": 4,
+  "previousStateHash": "4ac55265e72fcefdc0baf06777f70b66ff31b85ef950166444b324ed52ad3496",
   "createdAt": "2026-09-28T18:23:03.551Z",
-  "updatedAt": "2026-09-29T09:18:57.203Z",
+  "updatedAt": "2026-09-29T09:19:05.561Z",
   "revocation": {
     "reason": "ADMINISTRATIVE",
-    "revokedAt": "2026-09-29T09:06:25.520Z"
+    "revokedAt": "2026-09-29T09:19:05.560Z"
   },
-  "signature": "xLTjbG1wsQWxtbdXiEZ7w9aIrNy9plU0JU+2EoCrukW1WHc8Hs6ZIkmnK/smhaIy+b57fIBTrIrzmMRba3WhAw=="
+  "signature": "XDqPrp/czNjv/ysVTrZMc5emYODBUh0W3OnECUn6764Swcv6HsRdhJQNeT5+ZLApmUOe4ML/TbQMER55FKnECQ=="
 }
