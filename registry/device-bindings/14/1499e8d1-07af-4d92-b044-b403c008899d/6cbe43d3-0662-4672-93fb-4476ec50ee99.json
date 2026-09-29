@@ -1,0 +1,15 @@
+{
+  "bindingId": "6cbe43d3-0662-4672-93fb-4476ec50ee99",
+  "licenseId": "1499e8d1-07af-4d92-b044-b403c008899d",
+  "licenseType": "WORKER",
+  "storeIdentity": "store-b39a57e4",
+  "parentHostLicenseId": "6c222bdb-af6e-4d24-8140-287b045b369a",
+  "devicePublicKey": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAuMc96/aSgNhaz1G2wai4kdgEeUAhTkS65g7ObKnzAC8=\n-----END PUBLIC KEY-----",
+  "deviceIdentityHash": "8c367391a91b7d60911293d3578b3d6c1e5a559fa528258d58f6d403e81241a9",
+  "status": "ACTIVE",
+  "stateVersion": 1,
+  "previousStateHash": "",
+  "createdAt": "2026-09-29T23:04:08.618Z",
+  "updatedAt": "2026-09-29T23:04:08.618Z",
+  "signature": "yDGCCNQkxlS52SpEDvUi3KoG2NCnnsDeaj7Qm6jWVOcBrf39KNKNHtUDyWSn0/hucw9N/AkMd7iHSCFnu0shAg=="
+}
