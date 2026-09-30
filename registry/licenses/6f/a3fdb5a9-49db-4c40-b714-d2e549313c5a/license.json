@@ -1,0 +1,26 @@
+{
+  "licenseId": "a3fdb5a9-49db-4c40-b714-d2e549313c5a",
+  "keyId": "6f49c7d66b71f99d",
+  "keyLookupDigest": "6f49c7d66b71f99d74eb8d2587851b32e27cece9022ea0cac1c10d01812009d2",
+  "licenseType": "HOST",
+  "status": "ACTIVE",
+  "storeIdentity": "store-f369865a",
+  "workerCapacity": 5,
+  "businessActivity": "general",
+  "devicePolicy": {
+    "maxDevices": 1,
+    "bindingRequired": true,
+    "resetPolicy": "owner-controlled",
+    "platformPolicy": {
+      "windows": true,
+      "android": false
+    }
+  },
+  "licenseVersion": 1,
+  "securityVersion": 1,
+  "stateVersion": 1,
+  "previousStateHash": "",
+  "createdAt": "2026-09-30T20:30:51.728Z",
+  "updatedAt": "2026-09-30T20:30:51.728Z",
+  "signature": "YxvzEhhjZrBue0L3jQU/xObOZW6mS+6bQ8XDyj3BKoC641LOyF4M2jYfZvvsQ0leKwZShGN/25tvgZaWOdvFDA=="
+}
