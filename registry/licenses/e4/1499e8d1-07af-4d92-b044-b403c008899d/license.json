@@ -18,14 +18,14 @@
   },
   "licenseVersion": 1,
   "securityVersion": 1,
-  "stateVersion": 12,
-  "previousStateHash": "719d93981c1948bee4577478a0d8af1266fcf25685fb4396ad76305f51a8bd1c",
+  "stateVersion": 13,
+  "previousStateHash": "af8cdbc8ec61031b90ad4673117342f9ae98ff0a6636bce9ebb0e2d2e4942e30",
   "createdAt": "2026-09-29T09:06:39.808Z",
-  "updatedAt": "2026-10-01T19:04:01.043Z",
+  "updatedAt": "2026-10-02T09:07:42.525Z",
   "revocation": {
     "reason": "ADMINISTRATIVE",
     "revokedAt": "2026-09-30T03:44:06.969Z"
   },
-  "updates": false,
-  "signature": "b6ynAfxg3LVuRNwtExRrsXPQuFTZ+vOpn+ybVlNqRuMlE4jB5OLmOX/gFetLvRAJsHSxfjCaQkjQUQJRrloLDQ=="
+  "updates": true,
+  "signature": "WzRrqk+9o1ak1Y/WSD+tV8Kfjfoj3HwYkD5QPjAp1I0clc1hZ468JwB3eNaxEg2ZiTSXTlA/RZ2aZaq0gLH0AQ=="
 }
