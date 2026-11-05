@@ -5,12 +5,12 @@
   "storeIdentity": "store-b39a57e4",
   "devicePublicKey": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEApmZzCNOujhEfM9hupUvcnGQ5hz/epT384/Ys8rIiAs4=\n-----END PUBLIC KEY-----\n",
   "deviceIdentityHash": "6b38cfd76334534aed83ff92775d46052977ab3f798c51d35a98640606282771",
-  "status": "ACTIVE",
-  "stateVersion": 3,
-  "previousStateHash": "8d3cb55b4769a9da6cecd63a3e78f3cb7ed1593e23ad8a384099e312e3db7f81",
+  "status": "REVOKED",
+  "stateVersion": 4,
+  "previousStateHash": "a33fadebbb4af2c3db5e28b6c2348ba20894135a80fc6b82bc4cf3f0eaa4b60e",
   "createdAt": "2026-09-28T17:44:13.510Z",
-  "updatedAt": "2026-11-05T05:06:50.352Z",
+  "updatedAt": "2026-11-05T05:07:20.057Z",
   "resetByOwner": true,
   "restoredByOwner": true,
-  "signature": "ydX0UEiJDI/DnuUb8aBzA3huv/AJ+Mx2zo8pA6UdwYoEXobwi+4ZC3kytnzMc0ZCxxfELQEJOdKLwGL3nsZ1DQ=="
+  "signature": "enJGeRbETALlVuGqf4jQtITvhgkSjEo+ihgI5R/QVEdg1uDZDDlLQTCzrINz9fX5HPZ03xM+f3+MFStoJbQaDw=="
 }
