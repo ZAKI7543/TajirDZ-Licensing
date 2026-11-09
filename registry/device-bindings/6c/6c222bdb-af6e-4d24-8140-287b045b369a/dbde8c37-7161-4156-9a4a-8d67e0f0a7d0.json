@@ -5,10 +5,11 @@
   "storeIdentity": "store-b39a57e4",
   "devicePublicKey": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAP9RhP2P9b/spbhoZGGPseH+fXngZZLFudSzkF0oSEe4=\n-----END PUBLIC KEY-----\n",
   "deviceIdentityHash": "886f39b8d206f7439d5552988b03ab97da50f2de74f45501959df006147c8ccf",
-  "status": "ACTIVE",
-  "stateVersion": 1,
-  "previousStateHash": "",
+  "status": "REVOKED",
+  "stateVersion": 2,
+  "previousStateHash": "76f0b7a4e71d0615935584b538481ab678b7c84deec8befdc8c3d9dd84cf5492",
   "createdAt": "2026-11-05T19:47:00.534Z",
-  "updatedAt": "2026-11-05T19:47:00.534Z",
-  "signature": "4t2ISwrt79IvkcuIzsTqVS7PgOrrtBsgvvrUJWNyX5HYPjif0GZOcyECtopyGBT+5JZJMfwHbCV3YR11bWdhAg=="
+  "updatedAt": "2026-11-09T18:30:20.486Z",
+  "resetByOwner": true,
+  "signature": "KzOMxSRjG5sXTvEbBSu+TA8FrOhEcfjmVI8zqeQWB/vpmXnrvxXTixuprhgfxc4zFMvwJHnD1vF1TVVZsTylBQ=="
 }
