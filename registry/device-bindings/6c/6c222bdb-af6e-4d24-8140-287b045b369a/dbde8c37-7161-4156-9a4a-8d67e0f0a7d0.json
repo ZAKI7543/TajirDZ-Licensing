@@ -6,10 +6,10 @@
   "devicePublicKey": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAP9RhP2P9b/spbhoZGGPseH+fXngZZLFudSzkF0oSEe4=\n-----END PUBLIC KEY-----\n",
   "deviceIdentityHash": "886f39b8d206f7439d5552988b03ab97da50f2de74f45501959df006147c8ccf",
   "status": "REVOKED",
-  "stateVersion": 2,
-  "previousStateHash": "76f0b7a4e71d0615935584b538481ab678b7c84deec8befdc8c3d9dd84cf5492",
+  "stateVersion": 3,
+  "previousStateHash": "822c34cd05fd7cf9b3ef9ca27f2f8547a13088135d87f789ea475815ac7a6dac",
   "createdAt": "2026-11-05T19:47:00.534Z",
-  "updatedAt": "2026-11-09T18:30:20.486Z",
+  "updatedAt": "2026-11-09T18:30:50.846Z",
   "resetByOwner": true,
-  "signature": "KzOMxSRjG5sXTvEbBSu+TA8FrOhEcfjmVI8zqeQWB/vpmXnrvxXTixuprhgfxc4zFMvwJHnD1vF1TVVZsTylBQ=="
+  "signature": "n5gBu0L9J3dVsrg2avpN7274osqzQQlVMyNrqdBW0xEkKbVliIOpkyAb1GOY12v5oUu63xsY5Icsh19SGugADw=="
 }
